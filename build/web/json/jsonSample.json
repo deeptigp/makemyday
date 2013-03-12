@@ -1,0 +1,72 @@
+{
+  "planlist" : [ [ [ "event", {
+    "address" : "344 Tully Road,San Jose",
+    "category" : "Fitness",
+    "catWeight" : 3,
+    "eventName" : "Water Balloons!  (Saturday, 7/7/12, 930am - South SJ)",
+    "startTime" : 1341678600000,
+    "endTime" : 1341689400000,
+    "rsvpnum" : 39,
+    "eventUrl" : "http://www.meetup.com/AsianMeetups/events/64437182/",
+    "photoUrl" : "http://photos1.meetupstatic.com/photos/event/f/b/f/global_43996031.jpeg",
+    "startTimeStr" : "Sat Jul 07 09:30:00 PDT 2012",
+    "endTimeStr" : "Sat Jul 07 12:30:00 PDT 2012"
+  } ], [ "event", {
+    "address" : "20200 Big Basin Way,Boulder Creek",
+    "category" : "spirituality",
+    "catWeight" : 2,
+    "eventName" : "July Full Moon Circle: Embodying Freedom",
+    "startTime" : 1341711000000,
+    "endTime" : 1341721800000,
+    "rsvpnum" : 8,
+    "eventUrl" : "http://www.meetup.com/Sweat-Lodge-Events-of-Weaving-Unity-Center/events/68997182/",
+    "photoUrl" : "http://photos1.meetupstatic.com/photos/event/4/b/4/global_3043204.jpeg",
+    "startTimeStr" : "Sat Jul 07 18:30:00 PDT 2012",
+    "endTimeStr" : "Sat Jul 07 21:30:00 PDT 2012"
+  } ], [ "route", {
+    "duration" : "1 hour 0 mins",
+    "direction" : "35.0 mi"
+  } ] ], [ [ "event", {
+    "address" : "344 Tully Road,San Jose",
+    "category" : "Fitness",
+    "catWeight" : 3,
+    "eventName" : "Water Balloons!  (Saturday, 7/7/12, 930am - South SJ)",
+    "startTime" : 1341678600000,
+    "endTime" : 1341689400000,
+    "rsvpnum" : 39,
+    "eventUrl" : "http://www.meetup.com/AsianMeetups/events/64437182/",
+    "photoUrl" : "http://photos1.meetupstatic.com/photos/event/f/b/f/global_43996031.jpeg",
+    "startTimeStr" : "Sat Jul 07 09:30:00 PDT 2012",
+    "endTimeStr" : "Sat Jul 07 12:30:00 PDT 2012"
+  } ], [ "event", {
+    "address" : "Beach Chalet and Brewery,San Francisco",
+    "category" : "hiking",
+    "catWeight" : 1,
+    "eventName" : "Bonfire and Evening BBQ!!",
+    "startTime" : 1341709200000,
+    "endTime" : 1341720000000,
+    "rsvpnum" : 39,
+    "eventUrl" : "http://www.meetup.com/youngins/events/68898902/",
+    "photoUrl" : "http://photos1.meetupstatic.com/photos/event/1/4/7/0/global_72893232.jpeg",
+    "startTimeStr" : "Sat Jul 07 18:00:00 PDT 2012",
+    "endTimeStr" : "Sat Jul 07 21:00:00 PDT 2012"
+  } ], [ "event", {
+    "address" : "21020 Homestead Road,Cupertino",
+    "category" : "spirituality",
+    "catWeight" : 2,
+    "eventName" : "Important to Know",
+    "startTime" : 1341727200000,
+    "endTime" : 1341738000000,
+    "rsvpnum" : 1,
+    "eventUrl" : "http://www.meetup.com/Self-Mastery-Emotional-Physical-and-Spiritual-Wellness/events/71517422/",
+    "photoUrl" : "http://photos1.meetupstatic.com/photos/event/9/3/0/global_112916352.jpeg",
+    "startTimeStr" : "Sat Jul 07 23:00:00 PDT 2012",
+    "endTimeStr" : "Sun Jul 08 02:00:00 PDT 2012"
+  } ], [ "route", {
+    "duration" : "1 hour 2 mins",
+    "direction" : "52.2 mi"
+  } ], [ "route", {
+    "duration" : "51 mins",
+    "direction" : "42.2 mi"
+  } ] ] ]
+}
